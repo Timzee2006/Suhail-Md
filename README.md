@@ -1,4 +1,4 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> Timzee-v2-Md </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
@@ -9,18 +9,18 @@
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+    <img alt="Timzee-v2-md" height="400" src="/lib/assets/pk.jpg">
   </a>
 </p>
     
    
    
 <p align="center">
-   <a href="https://github.com/SuhailTechInfo/Suhail-Md/fork">
-    <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+   <a href="https://github.com/timzee2006/Suhail-Md/fork">
+    <img src="https://img.shields.io/github/forks/timzee2006/Suhail-Md?style=flat-square&logo=github&color=darkred">
    </a>
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md/stargazers"> 
-     <img src="https://img.shields.io/github/stars/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+  <a href="https://github.com/timzee2006/Suhail-Md/stargazers"> 
+     <img src="https://img.shields.io/github/stars/timzee2006/Suhail-Md?style=flat-square&logo=github&color=darkred">
  </a>
 
 
